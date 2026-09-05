@@ -44,9 +44,11 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+# Firebase options with API keys - must not be committed
+lib/firebase_options.dart
+
 # Claude Code internal files
 .claude/
-CLAUDE.md
 CLAUDE.md
 
 # Flutter project metadata
