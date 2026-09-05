@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446412825264",
+    "project_id": "maidrent",
+    "storage_bucket": "maidrent.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446412825264:android:9f79a7b8b1f2ea3f04d175",
+        "android_client_info": {
+          "package_name": "com.example.maid_rent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4jBQRCok0OhWJUFnb4Zrb6vXjXElAx_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
