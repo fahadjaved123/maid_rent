@@ -46,6 +46,7 @@ app.*.map.json
 
 # Claude Code internal files
 .claude/
+CLAUDE.md
 
 # Flutter project metadata
 .metadata
